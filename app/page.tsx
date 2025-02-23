@@ -21,7 +21,7 @@ export default function Home() {
             .
           </li>
           <li>Save and see your changes instantly.</li>
-          <li>Hello World!</li>
+          <li>Hello World from VSCode</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
